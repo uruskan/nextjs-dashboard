@@ -1,5 +1,9 @@
 After years of hunting for vulnerabilities or just using the already-made systems I have decided to learn web dev for good, this is just a TRAINING PROJECT from NEXTJS, I completed it with almost no outside help without revealing the solutions on the tutorial, finishing this training successfully will help me a lot in my upcoming web app.
 
+# Default Login
+user@nextmail.com
+123456
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --typescript`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Next.JS Dashboard
