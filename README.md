@@ -1,3 +1,5 @@
+After years of hunting for vulnerabilities or just using the already-made systems I have decided to learn web dev for good, this is just a TRAINING PROJECT from NEXTJS, I completed it with almost no outside help without revealing the solutions on the tutorial, finishing this training successfully will help me a lot in my upcoming web app.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --typescript`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Next.JS Dashboard
@@ -12,9 +14,9 @@ This dashboard is built with `Typescript` and [React Bootstrap](https://react-bo
 
 ### Dashboard
 
-https://nextjs-dashboard-olive.vercel.app
+https://nextjs-dashboard-i00aq24n5-umut-s-projects.vercel.app/
 
-[<img alt="Dashboard" width="400" src="https://user-images.githubusercontent.com/7660346/180629352-f92216e3-7cf4-4fba-92fa-089dd96b4478.png" />](https://nextjs-dashboard-olive.vercel.app)
+[<img alt="Dashboard" width="400" src="https://user-images.githubusercontent.com/7660346/180629352-f92216e3-7cf4-4fba-92fa-089dd96b4478.png" />](https://nextjs-dashboard-i00aq24n5-umut-s-projects.vercel.app/)
 
 | Mobile (collapsed)                                                                                                                                                                           | Mobile (expand)                                                                                                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
