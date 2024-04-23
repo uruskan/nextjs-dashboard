@@ -3,7 +3,7 @@ import { sql } from '@vercel/postgres';
 import { z } from 'zod';
 import { revalidatePath } from 'next/cache'; 
 import { redirect } from 'next/navigation';
-import { signIn } from '@/app/auth';
+import { signIn } from '@/auth';
 import { AuthError } from 'next-auth';
 
 const FormSchema = z.object({
@@ -85,8 +85,9 @@ export async function createInvoice(prevState: State, formData: FormData) {
     }
    
     // Revalidate the cache for the invoices page and redirect the user.
-    revalidatePath('/dashboard/invoices');
-    redirect('/dashboard/invoices');
+    console.log("redirecting from actions");
+    revalidatePath('@/app/dashboard/invoices');
+    redirect('@/app/dashboard/invoices');
   }
   
   export async function updateInvoice(id: string, formData: FormData) {
